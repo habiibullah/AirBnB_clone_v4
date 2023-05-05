@@ -160,7 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Samuel Shobayo - [Github](https://github.com/Shobayosamuel) / [Twitter](https://twitter.com/ShobayoSamuel)
-Habiibullah Ajiboye - [Github](https://github.com/Shobayosamuel)
+Habiibullah Ajiboye - [Github](https://github.com/habiibullah / [Twitter] (https://twitter.com/ahabiibullah)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
